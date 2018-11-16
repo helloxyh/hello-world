@@ -1,5 +1,5 @@
 # hello-world
-just a new repository
+just a new repo
 
 hi, this is Yuanhao Xiong!
 >>HEllo
